@@ -1,2 +1,2 @@
-# EDA-Brazil-Housing-Market
-This repository contains exploratory data analysis for housing market in major cities in Brazil
+# Exploratory Data Analysis
+This repository contains exploratory data analysis for different datasets.
